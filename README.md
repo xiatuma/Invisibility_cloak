@@ -1,5 +1,5 @@
 # Magic_cloak
-1. Install the required extensions through python pip commands.
+1. Open terminal, install pip, install opencv-python
 
 2. git clone https://github.com/xiatuma/Invisibility_cloak.git
 
