@@ -1,12 +1,8 @@
 # Magic_cloak
-install the required extensions through python pip commands (shown in the vid).
+1. Install the required extensions through python pip commands.
 
-copy code.
+2. git clone https://github.com/xiatuma/Invisibility_cloak.git
 
-run it.
+3. python3 cloak.py
 
-lastly, dont forget!, to make good use of it. ;)
-
-If too lazy like me, just clone the repository using 'git clone https://github.com/ConstantiNish/Magic_cloak'
-
-Youtube vid - https://www.youtube.com/watch?v=ReOkXd7zI9Q&t=117s
+4. Make good use of it.

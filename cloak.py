@@ -5,7 +5,7 @@ import cv2   #computer vision
 import numpy as np
 import time
 
-video=cv2.VideoCapture(0,cv2.CAP_DSHOW) #start your default laptop camera
+video=cv2.VideoCapture(0) #start your default laptop camera
                                         #1,2 if you don't have a camera on your laptop
 time.sleep(3)  #time to open cam
 for i in range(60): #time to store image
